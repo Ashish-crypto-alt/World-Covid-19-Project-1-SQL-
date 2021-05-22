@@ -15,8 +15,8 @@ Tableau Public
 
 SQL - NySQL for Data Analytics : data analysis and data visualizations for answering World_covid_Spreads related questions for management including,
 
-What are the Globle Numbers of Total cases, Total_death and Infected percentage.
-What are the the total deaths per continent.
-What are the percentage population Infected per country.
-What are the total percentage of population infected.
+1) What are the Globle Numbers of Total cases, Total_death and Infected percentage.
+2) What are the the total deaths per continent.
+3) What are the percentage population Infected per country.
+4) What are the total percentage of population infected.
 
